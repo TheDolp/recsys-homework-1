@@ -1,0 +1,12 @@
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.13.1
+duckdb==1.4.5
+huggingface_hub==1.8.0
+hf-xet==1.7.0
+matplotlib==3.9.4
+torch==2.5.1
+jupyterlab==4.5.11
+ipykernel==6.31.0
+nbformat==5.10.4
+nbclient==0.10.2
